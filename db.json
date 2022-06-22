@@ -1,5 +1,5 @@
-{data:{
-    data:[{
+{"data":{
+    "data":[{
     "id": 1,
     "name": "Leanne Graham",
     "username": "Bret",
@@ -224,6 +224,6 @@
     }
   }
   ],
-         name:"devil"
+         "name":"devil"
   }
   }
